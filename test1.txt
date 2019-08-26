@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 dfasdfhasldfjasdfasdf
 
 +++++
+=======
+>>>>>>> parent of 9c715e1... Update test1.txt
